@@ -1,0 +1,26 @@
+﻿<ResourceDictionary 
+    xmlns ="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+
+        xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+
+    <system:String x:Key="title">The Temple of Desires</system:String>
+    <system:String x:Key="benefactor">Benefactor:&#xA;</system:String>
+    <system:String x:Key="yo">Me</system:String>
+    <system:String x:Key="otrapersona">Another person</system:String>
+    <system:String x:Key="numero">Number</system:String>
+    <system:String x:Key="beneficio">Profit</system:String>
+    <system:String x:Key="editar">Edit</system:String>
+    <system:String x:Key="modificaor">Modify</system:String>
+    <system:String x:Key="eliminar">Delete</system:String>
+    <system:String x:Key="añadir">Add</system:String>
+
+    <system:String x:Key="codigosagrado">Sacred Code</system:String>
+
+    <system:String x:Key="bendiciones">Blessings!</system:String>
+    <system:String x:Key="pdfcodigosagrado">Pdf Sacred Codes</system:String>
+    <system:String x:Key="pdfgrabovoi">Pdf of Gravoboi</system:String>
+
+</ResourceDictionary>
